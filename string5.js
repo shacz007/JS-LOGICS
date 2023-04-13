@@ -6,3 +6,6 @@ let a =  "martin Luther"
 let b = a.split(" ");
 
 console.log(b);
+
+
+// this method also convets string to an array
