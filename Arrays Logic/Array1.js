@@ -6,6 +6,7 @@ let b = Math.max(...arr);
 console.log(b);
 
 // without using math.max
+// do
 
 function BigNum(arr){
     let max = arr[0];
